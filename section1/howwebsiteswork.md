@@ -2,7 +2,7 @@
   <img src="https://64.media.tumblr.com/022c95298ff3d89f3b732967e3fb6307/5197dd0334cf5b6a-46/s540x810/31cccede7d9923e1f79b13453025ab0d2740fbd6.png" alt="php" width="220">
 </p>
 
-<h1 align="center">Como os Sites Funcionam?</h1>
+<h1 align="center">Como os sites funcionam?</h1>
 <br>
 
 | Perguntas-chave | Notas principais |
