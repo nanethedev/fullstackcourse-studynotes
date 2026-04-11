@@ -5,7 +5,7 @@
 
 <p align="center">Este repositório foi criado para quem não tem acesso ao curso ou deseja se aprofundar ainda mais em cada tópico abordado. Aqui você encontra resumos, anotações e exemplos práticos organizados dia a dia. <a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/37331054#overview">Link para o curso</a></p>
 
-## ROADMAP 
+## Lista de Conteúdo
 
 ### Sessão 1 - Front-End Web Development
 
