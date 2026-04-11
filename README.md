@@ -10,3 +10,4 @@
 ### Seção 1 - Front-End Web Development
 
 1. <a href="https://github.com/nanethedev/fullstackcourse-studynotes/blob/main/section1/howinternetwork.md">Como a internet funciona?</a>
+2. <a href="https://github.com/nanethedev/fullstackcourse-studynotes/blob/main/section1/howwebsiteswork.md">Como os sites funcionam?</a>
