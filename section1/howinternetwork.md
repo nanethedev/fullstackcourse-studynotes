@@ -41,4 +41,4 @@ Quando você digita algo como google.com no seu navegador, ele envia essa solici
 <p align="center"> <img width="720" height="1352" alt="image" src="https://github.com/user-attachments/assets/6d40aa2a-833a-4e15-b24d-75603957c871" /> </p>
 
 <p align="center">
-<a href="">Próxima Aula</a></p>
+<a href="https://github.com/nanethedev/fullstackcourse-studynotes/blob/main/section1/howwebsiteswork.md">Próxima Aula</a></p>
