@@ -11,3 +11,7 @@
 
 1. <a href="https://github.com/nanethedev/fullstackcourse-studynotes/blob/main/section1/howinternetwork.md">Como a internet funciona?</a>
 2. <a href="https://github.com/nanethedev/fullstackcourse-studynotes/blob/main/section1/howwebsiteswork.md">Como os sites funcionam?</a>
+
+### Seção 2 - Introdução ao HTML
+
+1. <a href="https://github.com/nanethedev/fullstackcourse-studynotes/blob/main/section2/whatishtml.md"> O que é HTML?</a>
