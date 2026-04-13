@@ -33,4 +33,4 @@
 
 
 <p align="center"> 
-<a href="https://github.com/nanethedev/fullstackcourse-studynotes/blob/main/section1/howwebsiteswork.md"> ⬅️ Aula anterior</a> · <a href="">➡️ Próxima aula</a></p>
+<a href="https://github.com/nanethedev/fullstackcourse-studynotes/blob/main/section1/howwebsiteswork.md"> ⬅️ Aula anterior</a> · <a href="https://github.com/nanethedev/fullstackcourse-studynotes/blob/main/section2/headingelement.md">➡️ Próxima aula</a></p>
