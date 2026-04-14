@@ -83,4 +83,4 @@ Section 2
 
 
 <p align="center"> 
-<a href="https://github.com/nanethedev/fullstackcourse-studynotes/blob/main/section2/whatishtml.md"> ⬅️ Aula anterior</a> · <a href="">➡️ Próxima aula</a></p>
+<a href="https://github.com/nanethedev/fullstackcourse-studynotes/blob/main/section2/whatishtml.md"> ⬅️ Aula anterior</a> · <a href="https://github.com/nanethedev/fullstackcourse-studynotes/blob/main/section2/paragraphelement.md">➡️ Próxima aula</a></p>
