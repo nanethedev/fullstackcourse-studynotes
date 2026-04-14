@@ -16,3 +16,5 @@
 
 1. <a href="https://github.com/nanethedev/fullstackcourse-studynotes/blob/main/section2/whatishtml.md"> O que é HTML?</a>
 2. <a href="https://github.com/nanethedev/fullstackcourse-studynotes/blob/main/section2/headingelement.md">Headings</a>
+3. <a href="https://github.com/nanethedev/fullstackcourse-studynotes/blob/main/section2/paragraphelement.md">Parágrafo</a>
+
